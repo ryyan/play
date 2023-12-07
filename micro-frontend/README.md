@@ -2,6 +2,8 @@
 
 Repo to play with [micro-frontend architecture](https://micro-frontends.org/)
 
+![mfe preview](https://github.com/ryyan/play/assets/4228816/b0106545-84ef-4207-b225-1f1c3b4b7a8a)
+
 - Covers 4 permutations to test mixing frontend frameworks
 
   | Host  | Remote |
@@ -32,3 +34,4 @@ pnpm i && pnpm build && pnpm preview
 cd host-X
 pnpm i && pnpm build && pnpm preview
 ```
+
